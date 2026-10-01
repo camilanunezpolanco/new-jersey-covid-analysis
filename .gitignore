@@ -1,0 +1,13 @@
+# R session state and local IDE files
+.Rproj.user/
+.Rhistory
+.RData
+.RDataTmp*
+.Ruserdata
+
+# Local operating system files and credentials
+.DS_Store
+.Renviron
+.env
+.env.*
+!.env.example
