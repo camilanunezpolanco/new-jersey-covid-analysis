@@ -42,7 +42,6 @@ These are results reported in the original coursework, not independently reprodu
 
 The study is observational and includes only 21 counties. County-level associations do not establish causation or individual-level effects. Case reporting, testing, and the timing of source data may affect comparisons.
 
-The PDFs are preserved as submitted and may contain inconsistencies. For example, the report identifies the South region as reaching 100 cases faster (page 8), while the presentation identifies the Central region (slide 18). This discrepancy remains unresolved without the original data and code.
 
 ## Repository Layout
 
